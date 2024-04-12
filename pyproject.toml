@@ -2,15 +2,14 @@
 requires = ["setuptools>=64", "setuptools_scm>=8"]
 build-backend = "setuptools.build_meta"
 
-[tool.setuptools.packages.find]
-where = ["wonderwords"]
+[tool.setuptools]
+packages = ["wonderwords"]
 
 [tool.setuptools_scm]
 write_to = "wonderwords/_version.py"
 
 [project]
 name = "wonderwords"
-#version = "2.3.0"
 requires-python = ">=3.8"
 authors = [
     { name="Maxim Rebguns", email="mrmaxguns@gmail.com" },
