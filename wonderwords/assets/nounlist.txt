@@ -123,6 +123,7 @@ airplane
 airport
 airship
 airspace
+aisle
 alarm
 alb
 albatross
@@ -772,6 +773,7 @@ bull
 bull-fighter
 bulldozer
 bullet
+bully
 bump
 bumper
 bun
@@ -1076,6 +1078,7 @@ chops
 chopstick
 chopsticks
 chord
+chore
 chorus
 chow
 chowder
@@ -1090,6 +1093,7 @@ chuck
 chug
 church
 churn
+chute
 chutney
 cicada
 cigarette
