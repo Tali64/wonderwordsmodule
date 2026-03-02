@@ -3398,6 +3398,7 @@ laryngitis
 lasagna
 lashes
 last
+latch
 latency
 latex
 lathe
