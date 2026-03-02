@@ -6431,6 +6431,7 @@ valentine
 validate
 validity
 valley
+valor
 valuable
 value
 vampire
