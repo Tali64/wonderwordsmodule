@@ -2506,6 +2506,7 @@ friendship
 fries
 frigate
 fright
+frill
 fringe
 fritter
 frock
