@@ -2997,6 +2997,7 @@ humidity
 hummus
 humor
 humour
+hunch
 hunchback
 hundred
 hunger
