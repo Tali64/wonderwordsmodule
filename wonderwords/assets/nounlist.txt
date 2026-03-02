@@ -2757,6 +2757,7 @@ guilty
 guinea
 guitar
 guitarist
+gulch
 gum
 gumshoe
 gun
@@ -3374,6 +3375,7 @@ ladle
 lady
 ladybug
 lag
+lagoon
 lake
 lamb
 lambkin
