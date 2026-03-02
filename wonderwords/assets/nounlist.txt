@@ -475,6 +475,7 @@ bass
 bassinet
 bassoon
 bat
+batch
 bath
 bather
 bathhouse
